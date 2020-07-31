@@ -1,0 +1,4 @@
+Esto es un fichero de texto de prueba.
+En la segunda línea escribo cosas
+mientras que en la tercera escribo otras
+y finalizo en la línea 4.
