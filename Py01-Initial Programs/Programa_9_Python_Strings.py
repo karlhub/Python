@@ -1,7 +1,7 @@
 # Basic program in Python - Strings
 
 # Looking inside strings
-fruit="banana"
+fruit="apple"
 for letter in fruit:
     print(letter)
 print("End of loop:",i)
