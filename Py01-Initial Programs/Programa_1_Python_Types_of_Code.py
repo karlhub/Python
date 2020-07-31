@@ -1,5 +1,5 @@
 # Basic program in Python - Sequential Code
-x=5
+x=50
 print(x)
 x=x+3
 print(x)
